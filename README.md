@@ -4,6 +4,9 @@ This is a program built to build a closed loop where, user can chat with chatgpt
 ## Setup:
 
 1) use requirements.txt file to install dependencies
+2) Enter your OpenAI credentials in testgpt.py <br>
+![image](https://user-images.githubusercontent.com/48201939/206890929-4f77219f-7089-454b-bceb-eb04c3afef42.png)
+
 
 
 ## Code Run:
