@@ -17,6 +17,11 @@ This is a program built to build a closed loop where, user can chat with chatgpt
 ![image](https://user-images.githubusercontent.com/48201939/206890476-0e8d5671-5139-498b-b9b8-3202792f1eff.png)
 
 
+## Future Plans
+- [ ] Create an executable file, for easy sharing
+- [ ] Take yes/no through voice for continued response
+- [ ] Clean up the codespace
+
 I would like to thank the brilliant work from OpenAI and also [acheong08](https://github.com/acheong08), without whose work this would have been impossible <br>
 1) [Whisper](https://github.com/openai/whisper)
 2) [revChatGPT](https://github.com/acheong08/ChatGPT)
