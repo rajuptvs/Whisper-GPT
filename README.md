@@ -17,7 +17,8 @@ This is a program built to build a closed loop where, user can chat with chatgpt
 ![image](https://user-images.githubusercontent.com/48201939/206890476-0e8d5671-5139-498b-b9b8-3202792f1eff.png)
 
 
-## Future Plans
+## To-Do's
+- [ ] Add option for T.T.S. probably pyttsx3
 - [ ] Create an executable file, for easy sharing
 - [ ] Take yes/no through voice for continued response
 - [ ] Clean up the codespace
