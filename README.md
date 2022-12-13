@@ -4,11 +4,20 @@ This is a program built to build a closed loop where, user can chat with chatgpt
 ## Setup:
 
 1) use requirements.txt file to install dependencies
-2) Enter your OpenAI credentials in `testgpt.py` <br>
+2) Enter your OpenAI credentials in `testgpt.py` <br>  ``Not Working after the recent cloudflare update``
 
 ![image](https://user-images.githubusercontent.com/48201939/206890929-4f77219f-7089-454b-bceb-eb04c3afef42.png)
 
-
+3) ` Use the below steps `
+   * First upgrade the revchat gpt <br> 
+   `pip3 install revChatGPT==0.0.a42`
+   
+   * Then change the config as below  to enter your session token <br>
+      - `This requires chrome browser`
+      
+<br>
+![image](https://user-images.githubusercontent.com/48201939/207210877-a177603f-e96f-4645-a026-28e7003d4b89.png)
+<br>
 
 ## Code Run:
 1) Run the code from `speakwithchatGPT.py` <br> <br>
