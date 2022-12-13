@@ -14,10 +14,14 @@ This is a program built to build a closed loop where, user can chat with chatgpt
    
    * Then change the config as below  to enter your session token <br>
       - `This requires chrome browser`
+   * Please find the detailed steps to obtain the tokens here<br> 
+     - [Instructions](https://github.com/acheong08/ChatGPT/wiki/Setup)
       
 <br>
-![image](https://user-images.githubusercontent.com/48201939/207210877-a177603f-e96f-4645-a026-28e7003d4b89.png)
-<br>
+
+![image](https://user-images.githubusercontent.com/48201939/207210973-dba7f6be-7296-406d-84b9-c6078081aab4.png)
+
+
 
 ## Code Run:
 1) Run the code from `speakwithchatGPT.py` <br> <br>
