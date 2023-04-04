@@ -40,3 +40,8 @@ I would like to thank the brilliant work from OpenAI and also [acheong08](https:
 1) [Whisper](https://github.com/openai/whisper)
 2) [revChatGPT](https://github.com/acheong08/ChatGPT)
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=rajuptvs/Whisper-GPT&type=Date)](https://star-history.com/#rajuptvs/Whisper-GPT&Date)
+
+
